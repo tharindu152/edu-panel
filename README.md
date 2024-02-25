@@ -1,4 +1,4 @@
-# Customer Management App
+# Lecturer Management App
 
 ### Version
 
@@ -6,18 +6,18 @@ v1.0.0
 
 ### About The Project
 
-This project is created for a customer management web application.
-The REST API for the mentioned web application was coded using undermentioned technologies.
+This backend project is created for a lecturer management web application. The REST API was created using undermentioned technologies.
 
 - Java Springboot
 - Hibernate ORM
 - Hibernate Validator
 - Object Mapper
 - Lombok
+- JWT tokens
+- SLF4J, LogBack
+- Firebase
 - MySQL
-<br>
-Although spring boot gives built in solutions to repository and service layers, I have coded those layers by my self for demonstration purposes.
-<br>
+
 <br>
 
 Entity Relationship Diagram.
