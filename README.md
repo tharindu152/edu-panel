@@ -15,22 +15,23 @@ This backend project is created for a lecturer management web application. The R
 - Lombok
 - JWT tokens
 - SLF4J, LogBack
+- Custom banner
 - Firebase
 - MySQL
 
 <br>
 
 Entity Relationship Diagram.
-<img width="800" src="https://github.com/tharindu152/customer-management-system/blob/main/src/main/resources/img/entity%20Relationship%20diagram.png">
+<img width="800" src="https://github.com/tharindu152/edu-panel/blob/main/src/main/resources/img/ERD.png">
 
 Layered Architecture was followed to structure the project.
-<img width="800" src="https://github.com/tharindu152/customer-management-system/blob/main/src/main/resources/img/project%20architecture.png">
+<img width="800" src="https://github.com/tharindu152/edu-panel/blob/main/src/main/resources/img/Layered%20Architecture.png">
 
 Structure of the Repository Layer
-<img width="800" src="https://github.com/tharindu152/customer-management-system/blob/main/src/main/resources/img/repository%20layer.png">
+<img width="800" src="https://github.com/tharindu152/edu-panel/blob/main/src/main/resources/img/Repository%20Layer.png">
 
 Structure of the Service Layer
-<img width="800" src="https://github.com/tharindu152/customer-management-system/blob/main/src/main/resources/img/service%20layer.png">
+<img width="800" src="https://github.com/tharindu152/edu-panel/blob/main/src/main/resources/img/service%20layer.png">
 
 ### License
 
